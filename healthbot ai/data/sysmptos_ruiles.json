@@ -1,0 +1,76 @@
+{
+  "conditions": {
+    "common_cold": {
+      "name_en": "Common Cold",
+      "name_hi": "सामान्य सर्दी",
+      "symptoms": ["cough", "runny nose", "sneezing", "sore throat", "mild fever"],
+      "keywords": ["cough", "cold", "runny", "nose", "sneeze", "throat", "congestion", "खांसी", "सर्दी", "नाक", "गला"],
+      "advice_en": "Rest well, drink plenty of warm fluids like tea or soup, use warm salt water for gargling (1 tsp salt in warm water). Take steam inhalation. Avoid cold foods and drinks. See a doctor if symptoms persist for more than 7 days or worsen.",
+      "advice_hi": "अच्छा आराम करें, चाय या सूप जैसे गर्म तरल पदार्थ पिएं, गर्म नमक के पानी से गरारे करें (गर्म पानी में 1 चम्मच नमक)। भाप लें। ठंडे खाने-पीने से बचें। यदि लक्षण 7 दिन से अधिक बने रहें या बिगड़ें तो डॉक्टर से मिलें।",
+      "severity": "mild"
+    },
+    "fever": {
+      "name_en": "Fever",
+      "name_hi": "बुखार",
+      "symptoms": ["high temperature", "chills", "sweating", "headache", "body ache"],
+      "keywords": ["fever", "temperature", "hot", "chills", "sweating", "shivering", "बुखार", "तापमान", "ठंड", "पसीना"],
+      "advice_en": "Rest in bed, drink plenty of fluids (water, ORS, fruit juices), take paracetamol as per doctor's advice. Use cool compress on forehead. Wear light clothing. Seek immediate medical attention if fever is above 104°F (40°C) or if you have breathing difficulty.",
+      "advice_hi": "बिस्तर पर आराम करें, पर्याप्त तरल पदार्थ पिएं (पानी, ORS, फलों का रस), डॉक्टर की सलाह के अनुसार पैरासिटामोल लें। माथे पर ठंडी पट्टी रखें। हल्के कपड़े पहनें। यदि बुखार 104°F (40°C) से अधिक है या सांस लेने में कठिनाई है तो तुरंत चिकित्सा सहायता लें।",
+      "severity": "moderate"
+    },
+    "headache": {
+      "name_en": "Headache",
+      "name_hi": "सिरदर्द", 
+      "symptoms": ["head pain", "pressure", "throbbing", "sensitivity to light", "nausea"],
+      "keywords": ["headache", "head", "pain", "migraine", "pressure", "throbbing", "सिरदर्द", "सिर", "दर्द"],
+      "advice_en": "Rest in a quiet, dark room. Apply cold or warm compress to head/neck. Stay hydrated. Avoid loud noises and bright lights. Try gentle head massage. Consult a doctor if headache is severe, sudden onset, or accompanied by fever, stiff neck, or vision changes.",
+      "advice_hi": "शांत, अंधेरे कमरे में आराम करें। सिर/गर्दन पर ठंडी या गर्म सिकाई करें। पानी पिएं। तेज आवाज और रोशनी से बचें। सिर की हल्की मालिश करें। यदि सिरदर्द गंभीर है, अचानक हुआ है, या बुखार, गर्दन में अकड़न, या दृष्टि में बदलाव के साथ है तो डॉक्टर से सलाह लें।",
+      "severity": "mild"
+    },
+    "stomach_pain": {
+      "name_en": "Stomach Pain",
+      "name_hi": "पेट दर्द",
+      "symptoms": ["abdominal pain", "cramping", "nausea", "bloating", "indigestion"],
+      "keywords": ["stomach", "belly", "abdominal", "pain", "cramp", "nausea", "indigestion", "पेट", "दर्द", "मतली", "अपच"],
+      "advice_en": "Avoid solid foods temporarily. Drink clear fluids like water, clear broths. Apply heat pad to abdomen. Try gentle walking. Avoid spicy, fatty, or dairy foods. See a doctor if severe pain, vomiting persists, fever, or blood in vomit/stool.",
+      "advice_hi": "अस्थायी रूप से ठोस भोजन से बचें। साफ तरल पदार्थ जैसे पानी, साफ सूप पिएं। पेट पर गर्म पैड लगाएं। हल्की सैर करें। मसालेदार, चिकने या डेयरी खाद्य पदार्थों से बचें। यदि तेज दर्द, लगातार उल्टी, बुखार, या उल्टी/मल में खून हो तो डॉक्टर से मिलें।",
+      "severity": "moderate"
+    },
+    "diarrhea": {
+      "name_en": "Diarrhea", 
+      "name_hi": "दस्त",
+      "symptoms": ["loose stools", "frequent bowel movements", "dehydration", "cramping"],
+      "keywords": ["diarrhea", "loose", "stool", "bathroom", "frequent", "watery", "दस्त", "पेट", "खराब", "पानी"],
+      "advice_en": "Stay hydrated with ORS solution (1 packet in 1 liter clean water). Eat bland foods like rice, banana, toast. Avoid dairy, fatty, spicy foods. Zinc supplements if available. See doctor immediately if blood in stool, severe dehydration, high fever, or symptoms persist more than 3 days.",
+      "advice_hi": "ORS घोल से हाइड्रेटेड रहें (1 पैकेट 1 लीटर साफ पानी में)। चावल, केला, टोस्ट जैसे सादे भोजन खाएं। डेयरी, चिकने, मसालेदार खाने से बचें। यदि उपलब्ध हो तो जिंक की गोलियां लें। यदि मल में खून, गंभीर निर्जलीकरण, तेज बुखार, या लक्षण 3 दिन से अधिक बने रहें तो तुरंत डॉक्टर से मिलें।",
+      "severity": "moderate"
+    },
+    "cough": {
+      "name_en": "Cough",
+      "name_hi": "खांसी",
+      "symptoms": ["persistent coughing", "throat irritation", "phlegm", "chest discomfort"],
+      "keywords": ["cough", "coughing", "throat", "phlegm", "chest", "wheeze", "खांसी", "कफ", "सीना"],
+      "advice_en": "Drink warm liquids like honey-ginger tea. Take steam inhalation. Avoid cold drinks and ice cream. Use humidifier if available. Try throat lozenges. Consult doctor if cough persists more than 2 weeks, blood in sputum, or breathing difficulty.",
+      "advice_hi": "शहद-अदरक की चाय जैसे गर्म तरल पदार्थ पिएं। भाप लें। ठंडे पेय और आइसक्रीम से बचें। यदि उपलब्ध हो तो ह्यूमिडिफायर का उपयोग करें। गले की गोलियां आजमाएं। यदि खांसी 2 सप्ताह से अधिक बनी रहे, कफ में खून हो, या सांस लेने में कठिनाई हो तो डॉक्टर से सलाह लें।",
+      "severity": "mild"
+    },
+    "body_ache": {
+      "name_en": "Body Ache",
+      "name_hi": "शरीर दर्द",
+      "symptoms": ["muscle pain", "joint pain", "stiffness", "fatigue"],
+      "keywords": ["body", "ache", "muscle", "joint", "pain", "stiff", "tired", "शरीर", "दर्द", "मांसपेशी", "जोड़"],
+      "advice_en": "Get adequate rest. Apply warm compress to affected areas. Do gentle stretching. Stay hydrated. Take paracetamol if needed. Light massage can help. See doctor if severe pain, swelling, or symptoms worsen.",
+      "advice_hi": "पर्याप्त आराम करें। प्रभावित क्षेत्रों पर गर्म सिकाई करें। हल्की स्ट्रेचिंग करें। पानी पिएं। यदि आवश्यक हो तो पैरासिटामोल लें। हल्की मालिश मदद कर सकती है। यदि गंभीर दर्द, सूजन, या लक्षण बिगड़ें तो डॉक्टर से मिलें।",
+      "severity": "mild"
+    },
+    "vomiting": {
+      "name_en": "Vomiting",
+      "name_hi": "उल्टी",
+      "symptoms": ["nausea", "throwing up", "stomach upset", "dehydration"],
+      "keywords": ["vomit", "vomiting", "nausea", "throw", "sick", "stomach", "उल्टी", "मतली", "जी"],
+      "advice_en": "Rest and avoid solid foods initially. Sip small amounts of clear fluids like water, ORS. Try ginger tea. Gradually return to bland foods. Avoid dairy and fatty foods. Seek immediate medical help if persistent vomiting, blood in vomit, severe dehydration, or high fever.",
+      "advice_hi": "आराम करें और शुरू में ठोस भोजन से बचें। पानी, ORS जैसे साफ तरल पदार्थों की छोटी मात्रा पिएं। अदरक की चाय आजमाएं। धीरे-धीरे सादे भोजन पर लौटें। डेयरी और चिकने खाने से बचें। यदि लगातार उल्टी, उल्टी में खून, गंभीर निर्जलीकरण, या तेज बुखार हो तो तुरंत चिकित्सा सहायता लें।",
+      "severity": "moderate"
+    }
+  }
+}
